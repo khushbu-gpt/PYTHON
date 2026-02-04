@@ -28,3 +28,13 @@ if x:
         print("B")
 else:
     print("C")
+
+
+x = None
+y = [0]
+
+if x:
+    print("X")
+
+if y:
+    print("Y") #print
